@@ -2,6 +2,12 @@
 
 SR3MP:Revamp is a new version of my original project "SR3MP" with a lot of improvements but incomplete for now.
 
+# Features
+
+• **F8** to open console.<br>
+• **SUPPR** to unload the mod (only for debug purposes, it will not be available in the final release) (Only work on NON CEF build)<br>
+• **F1** to enable/disable no clip.<br>
+
 # Preview
 
 <p align="center"><img src="https://i.imgur.com/0FkisxD.png"></p>
