@@ -16,7 +16,7 @@ SR3MP:Revamp is a new version of my original project "SR3MP" with a lot of impro
 
 # Credits
 
-• <a href="https://github.com/K3rhos">@K3rhos</a> (I made the entire project base, including programming, arts & textures)<br>
-• <a href="https://github.com/NEZORTEK">@NEZORTEK</a> (Some ideas for SR3MP development and some scripts)<br>
-• <a href="https://github.com/RootKiller">@RootKiller</a> (For some ideas from his <a href="https://github.com/RootKiller/sr3mp-Abandoned/">SR3MP abandoned project</a>.)<br>
-• <a href="https://github.com/MrReekoFTWxD">@MrReekoFTWxD</a> (For some ideas from his <a href="https://github.com/MrReekoFTWxD/SR3R">SR3R project</a>.)<br>
+• <a href="https://github.com/K3rhos">@K3rhos</a> (I made the entire project base, including programming, design & arts)<br>
+• <a href="https://github.com/NEZORTEK">@NEZORTEK</a> (For giving me some ideas during the development and some scripts)<br>
+• <a href="https://github.com/RootKiller">@RootKiller</a> (<a href="https://github.com/RootKiller/sr3mp-Abandoned/">SR3MP abandoned project</a>.)<br>
+• <a href="https://github.com/MrReekoFTWxD">@MrReekoFTWxD</a> (<a href="https://github.com/MrReekoFTWxD/SR3R">SR3R project</a>.)<br>
