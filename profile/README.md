@@ -9,10 +9,13 @@ Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started i
 - [x] Custom main menu with servers list
 - [x] Debug console (F8 key)
 - [x] Some basic commands (such as weather, time, tp...) 
-- [x] Players sync
-- [x] Vehicles sync
+- [x] Players movements sync
+- [x] Vehicles movements sync (WIP)
+- [x] Vehicle enter/exit sync
 - [x] No clip (F1 key)
 - [ ] Animations sync (WIP)
+- [ ] Players morph/body appearance sync
+- [ ] Players clothes sync
 - [ ] Weapons sync
 
 # Preview
