@@ -1,20 +1,26 @@
-# <img src="https://i.imgur.com/FVFGXkr.png" width="24" height="24"> SR3MP Revamp
+# <img src="https://i.imgur.com/FVFGXkr.png" width="24" height="24"> SR3MP
 
 ⚠️ Some repositories concerning this project are private for now !⚠️
 
-SR3MP:Revamp is a new version of my original project "SR3MP" with a lot of improvements but incomplete for now.
+Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started in May 2021, this project is here to finally offer a real multiplayer experience to this game. This enhanced multiplayer will allow you to set up your own server and run custom scripts as well as your own mods.
 
-# Features
+# TODO List
 
-• **F8** to open console.<br>
-• **DEL** to unload the mod (only for debug purposes, it will not be available in the final release) (Only work on NON CEF build)<br>
-• **F1** to enable/disable no clip.<br>
+- [x] Custom main menu with servers list
+- [x] Debug console (F8 key)
+- [x] Some basic commands (such as weather, time, tp...) 
+- [x] Players sync
+- [x] Vehicles sync
+- [x] No clip (F1 key)
+- [ ] Animations sync (WIP)
+- [ ] Weapons sync
 
 # Preview
 
-<p align="center"><img src="https://i.imgur.com/0FkisxD.png"></p>
-<p align="center"><img src="https://i.imgur.com/ZWYAp2N.jpg"></p>
-<p align="center"><img src="https://i.imgur.com/BY6mJOA.jpg"></p>
+<p align="center"><img src="https://i.imgur.com/7Oy7LLF.png"></p>
+<p align="center"><img src="https://i.imgur.com/RtzeIt3.jpeg"></p>
+<p align="center"><img src="https://i.imgur.com/SMgHXnb.png"></p>
+<p align="center"><img src="https://i.imgur.com/LpJH8zi.jpeg"></p>
 
 # Credits
 
