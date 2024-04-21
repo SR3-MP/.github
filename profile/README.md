@@ -17,6 +17,8 @@ Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started i
 - [ ] Players morph/body appearance sync
 - [ ] Players clothes sync
 - [ ] Weapons sync
+- [ ] Client scripting
+- [ ] Server scripting
 
 # Preview
 
