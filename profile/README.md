@@ -28,10 +28,10 @@ Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started i
 
 # Preview
 
-<p align="center"><img src="https://i.imgur.com/7Oy7LLF.png"></p>
-<p align="center"><img src="https://i.imgur.com/RtzeIt3.jpeg"></p>
-<p align="center"><img src="https://i.imgur.com/SMgHXnb.png"></p>
-<p align="center"><img src="https://i.imgur.com/LpJH8zi.jpeg"></p>
+|||
+|:-------:|:-------:|
+| <p>Main Menu with servers list</p><img src="https://i.imgur.com/7Oy7LLF.png" alt="Main Menu with servers list"> | <p>Connected with multiple players</p><img src="https://i.imgur.com/SMgHXnb.png" alt="Connected with multiple players"> |
+| <p>In game connected to a server</p><img src="https://i.imgur.com/RtzeIt3.jpeg" alt="In game connected to a server"> | <p>Connected with multiple players + Someone in a vehicle</p><img src="https://i.imgur.com/LpJH8zi.jpeg" alt="Connected with multiple players + Someone in a vehicle"> |
 
 # Credits
 
