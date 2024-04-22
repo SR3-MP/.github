@@ -40,3 +40,15 @@ Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started i
 • <a href="https://github.com/notfell">@notfell</a> (For helping me with testing, finding exploits and bugs)<br>
 • <a href="https://github.com/MrReekoFTWxD">@MrReekoFTWxD</a> [<a href="https://github.com/MrReekoFTWxD/SR3R">SR3R project</a>] (Some useful reversed game functions related to UI)<br>
 • <a href="https://github.com/RootKiller">@RootKiller</a> [<a href="https://github.com/RootKiller/sr3mp-Abandoned/">SR3MP abandoned project</a>] (Some useful ideas to start the project)<br>
+
+# Libraries
+
+• <a href="http://enet.bespin.org/">ENet</a><br>
+• <a href="https://github.com/ocornut/imgui">ImGui</a><br>
+• <a href="https://github.com/chromiumembedded/cef">CEF (Chromium Embedded Framework)</a><br>
+• <a href="https://github.com/microsoft/DirectXTK">DirectXTK</a><br>
+• <a href="https://github.com/TsudaKageyu/minhook">MinHook</a><br>
+• <a href="https://github.com/ToruNiina/toml11">toml11</a><br>
+• <a href="https://github.com/nlohmann/json">nlohmann JSON</a><br>
+• <a href="https://github.com/discord/discord-rpc">Discord RPC</a><br>
+• <a href="https://github.com/yhirose/cpp-httplib">httplib</a><br>
