@@ -1,6 +1,7 @@
 # <img src="https://i.imgur.com/FVFGXkr.png" width="24" height="24"> SR3MP
 
-⚠️ Some repositories concerning this project are private for now !⚠️
+> [!WARNING]
+> This project is closed source, only repositories related with documentation (SR3MP or related to Saints Row in general) are available.
 
 Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started in May 2021, this project is here to finally offer a real multiplayer experience to this game. This enhanced multiplayer will allow you to set up your own server and run custom scripts as well as your own mods.
 
