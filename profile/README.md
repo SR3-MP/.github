@@ -39,7 +39,7 @@ Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started i
 • <a href="https://github.com/NEZORTEK">@NEZORTEK</a> (For giving me some ideas during the development and some scripts)<br>
 • <a href="https://github.com/notfell">@notfell</a> (For helping me with testing, finding exploits and bugs)<br>
 • <a href="https://github.com/MrReekoFTWxD">@MrReekoFTWxD</a> [<a href="https://github.com/MrReekoFTWxD/SR3R">SR3R project</a>] (Some useful reversed game functions related to UI)<br>
-• <a href="https://github.com/RootKiller">@RootKiller</a> [<a href="https://github.com/RootKiller/sr3mp-Abandoned/">SR3MP abandoned project</a>] (Some useful ideas to start the project)<br>
+• <a href="https://github.com/RootKiller">@RootKiller</a> [<a href="https://github.com/RootKiller/sr3mp-Abandoned/">SR3MP abandoned project</a>] (Some useful reversed functions related with npcs & vehicles spawn)<br>
 
 # Libraries
 
