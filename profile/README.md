@@ -54,3 +54,4 @@ Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started i
 • <a href="https://github.com/nlohmann/json">nlohmann JSON</a><br>
 • <a href="https://github.com/discord/discord-rpc">Discord RPC</a><br>
 • <a href="https://github.com/yhirose/cpp-httplib">httplib</a><br>
+• <a href="https://www.lua.org/">LUA</a><br>
