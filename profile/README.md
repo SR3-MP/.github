@@ -20,14 +20,14 @@ Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started i
 - [x] LUA Client scripting
 - [ ] LUA Server scripting
 - [x] Resources Manager (start, stop, restart ...)
-- [ ] Animations sync (WIP)
+- [ ] Animations sync
 - [ ] Players morph/body appearance sync
 - [ ] Players clothes sync
 - [ ] Weapons sync
 - [ ] Voice Chat
 
 > [!NOTE]
-> The list above is arbitrary, it's a short summary of the "core" features currently (or not) implemented.
+> The list above is arbitrary, it's a short summary of the "core" features currently implemented or planned.
 
 # Preview
 
