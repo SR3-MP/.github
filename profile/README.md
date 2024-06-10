@@ -59,3 +59,4 @@ Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started i
 • <a href="https://github.com/vog/sha1">SHA-1</a><br>
 • <a href="https://github.com/tobiaslocker/base64">base64</a><br>
 • <a href="https://www.lua.org/">LUA</a><br>
+• <a href="https://github.com/vinniefalco/LuaBridge">LUA Bridge</a><br>
