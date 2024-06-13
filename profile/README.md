@@ -3,7 +3,7 @@
 Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started in May 2021, this project is here to finally offer a real multiplayer experience to this game. This enhanced multiplayer will allow you to set up your own server and run custom scripts as well as your own mods.
 
 > [!WARNING]
-> This project is closed source, only repositories related with documentation (SR3MP or Saints Row related) are available.
+> This project is closed source, only repositories related with documentation or servers resources are available publicly.
 
 # TODO List
 
