@@ -17,8 +17,8 @@ Multiplayer is finally a thing on Saints Row The Third™ Remastered ! Started i
 - [x] Vehicles movements sync (WIP)
 - [x] Vehicle enter/exit sync (WIP)
 - [x] No clip (F1 key) (Debug purpose only)
-- [x] LUA Client scripting
-- [ ] LUA Server scripting
+- [x] LUA Client scripting (WIP)
+- [x] LUA Server scripting (WIP)
 - [x] Resources Manager (start, stop, restart ...)
 - [ ] Animations sync
 - [ ] Players morph/body appearance sync
